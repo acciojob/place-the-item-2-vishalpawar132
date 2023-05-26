@@ -1,6 +1,6 @@
 .holder{
 	display: flex;
-	flex-wrap: row wrap;
+	flex-wrap: wrap;
 	justify-content: center;
 }
 .holder .item{
